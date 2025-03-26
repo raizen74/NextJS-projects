@@ -1,0 +1,1 @@
+NextJS projects built during the Academind React Course
